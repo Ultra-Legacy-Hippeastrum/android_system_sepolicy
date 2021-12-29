@@ -1,4 +1,3 @@
-userdebug_or_eng(`
   typeattribute su coredomain;
 
   domain_auto_trans(shell, su_exec, su)
@@ -133,4 +132,4 @@ userdebug_or_eng(`
   typeattribute su hal_wifi_client;
   typeattribute su hal_wifi_hostapd_client;
   typeattribute su hal_wifi_supplicant_client;
-')
+
